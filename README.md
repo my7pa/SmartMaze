@@ -1,0 +1,2 @@
+# SmartMaze
+maze for kids
